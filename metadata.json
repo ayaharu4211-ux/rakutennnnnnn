@@ -1,0 +1,6 @@
+
+{
+  "name": "Rakuten Ranking Copier",
+  "description": "楽天市場のランキングを取得し、商品名・URLをワンクリックでコピーできるアフィリエイター向け効率化ツール。",
+  "requestFramePermissions": []
+}
